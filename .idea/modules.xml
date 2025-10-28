@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ai/项目/大模型/代码/major/07_coze/.idea/07_coze.iml" filepath="$PROJECT_DIR$/../ai/项目/大模型/代码/major/07_coze/.idea/07_coze.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/EduRag.iml" filepath="$PROJECT_DIR$/.idea/EduRag.iml" />
+    </modules>
+  </component>
+</project>
